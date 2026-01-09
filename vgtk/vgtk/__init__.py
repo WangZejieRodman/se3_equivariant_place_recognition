@@ -8,5 +8,5 @@ from . import spconv
 from . import so3conv
 
 from .app import *
-from .loss import *
+# from .loss import *
 from .utils import batch_gather, batch_zip, LearningRateScheduler
